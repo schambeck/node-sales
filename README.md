@@ -1,6 +1,6 @@
 [![build](https://github.com/schambeck/node-sales/actions/workflows/node.js.yml/badge.svg)](https://github.com/schambeck/node-sales/actions/workflows/node.js.yml)
-[![quality gate](https://sonarcloud.io/api/project_badges/measure?project=schambeck_node-sales&metric=alert_status)](https://sonarcloud.io/summary/overall_code?id=schambeck_node-sales)
-[![coverage](https://sonarcloud.io/api/project_badges/measure?project=schambeck_node-sales&metric=coverage)](https://sonarcloud.io/summary/overall_code?id=schambeck_node-sales)
+[![quality gate](https://sonarcloud.io/api/project_badges/measure?project=schambeck_node-sales&metric=alert_status)](https://sonarcloud.io/summary/overall?id=schambeck_node-sales)
+[![coverage](https://sonarcloud.io/api/project_badges/measure?project=schambeck_node-sales&metric=coverage)](https://sonarcloud.io/summary/overall?id=schambeck_node-sales)
 
 ## Description
 
