@@ -1,4 +1,4 @@
-[![build](https://github.com/schambeck/node-sales/actions/workflows/npm-gulp.yml/badge.svg)](https://github.com/schambeck/node-sales/actions/workflows/npm-gulp.yml)
+[![build](https://github.com/schambeck/node-sales/actions/workflows/node.js.yml/badge.svg)](https://github.com/schambeck/node-sales/actions/workflows/node.js.yml)
 
 ## Description
 
