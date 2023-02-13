@@ -1,8 +1,8 @@
 {
-  "name": "my-nestjs-01",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "name": "node-sales",
+  "version": "1.0.0",
+  "description": "ERP Sales Order CRUD",
+  "author": "Marcelo Schambeck <mschambeck@gmail.com>",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -28,7 +28,6 @@
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.0",
     "dotenv": "^16.0.3",
-    "gulp": "^4.0.2",
     "nestjs-paginate": "^4.8.0",
     "pg": "^8.9.0",
     "reflect-metadata": "^0.1.13",
