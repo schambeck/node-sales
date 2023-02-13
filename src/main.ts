@@ -10,7 +10,7 @@ async function bootstrap() {
   app.useGlobalPipes(new ValidationPipe());
 
   const config = new DocumentBuilder()
-    .setTitle('ERP Sales')
+    .setTitle('Sales API')
     .setDescription('Orders')
     .setVersion('1.0.0')
     .addTag('orders')

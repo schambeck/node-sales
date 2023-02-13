@@ -1,7 +1,7 @@
 {
   "name": "node-sales",
   "version": "1.0.0",
-  "description": "ERP Sales Order CRUD",
+  "description": "Sales Order API",
   "author": "Marcelo Schambeck <mschambeck@gmail.com>",
   "private": true,
   "license": "UNLICENSED",

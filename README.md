@@ -5,7 +5,7 @@
 
 ## Description
 
-ERP Sales Order CRUD.
+Sales Order CRUD API.
 
 ## Tech Stack
 
@@ -15,7 +15,7 @@ ERP Sales Order CRUD.
 - Swagger
 - Jest, SuperTest
 
-## Installation
+## Project Setup
 
 ```bash
 $ npm install
