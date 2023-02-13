@@ -1,3 +1,5 @@
+[![build](https://github.com/schambeck/node-sales/actions/workflows/npm-gulp.yml/badge.svg)](https://github.com/schambeck/node-sales/actions/workflows/npm-gulp.yml)
+
 ## Description
 
 ERP Sales Order CRUD.
